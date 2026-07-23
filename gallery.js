@@ -31,6 +31,13 @@ const images = [
   { url: "https://i.imgur.com/vR6FGjl.png", width: 700, height: 1100 },
   { url: "https://i.imgur.com/XHsdpeK.png", width: 850, height: 1200 },
   { url: "https://i.imgur.com/kjgYmu4.png", width: 900, height: 900 },
+    { url: "https://i.imgur.com/rpq8p7s.png", width: 600, height: 1000 },
+  { url: "https://i.imgur.com/dBYV5d8.png", width: 1200, height: 800 },
+  { url: "https://i.imgur.com/v0PWdLs.png", width: 700, height: 1100 },
+  { url: "https://i.imgur.com/V9DsJ2m.png", width: 850, height: 1200 },
+  { url: "https://i.imgur.com/rzHdYj2.png", width: 900, height: 900 },
+  { url: "https://i.imgur.com/doSrLrh.png", width: 600, height: 800 },
+  { url: "https://i.imgur.com/Xdzw6Zt.png", width: 1000, height: 1400 },
 ];
 
 const clipClasses = [
